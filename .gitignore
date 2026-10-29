@@ -1,0 +1,10 @@
+# Este repositório publica somente os arquivos institucionais permitidos abaixo.
+*
+!.gitignore
+!README.md
+!docs/
+docs/*
+!docs/*.md
+!assets/
+assets/*
+!assets/banner.svg
