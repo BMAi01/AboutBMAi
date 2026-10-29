@@ -34,7 +34,11 @@ Cofundador da BMAi. Sua visão conecta geração de valor para o cliente, impact
 
 Responsável pela liderança técnica. Seu trabalho conecta arquitetura de IA, integração com o ambiente da empresa, segurança, manutenção e adoção pelas pessoas.
 
-As apresentações completas da liderança estão na [página do time](https://bmai.com.br/time/).
+### Lucca · COO
+
+COO da BMAi.
+
+Conheça também a [página institucional do time](https://bmai.com.br/time/).
 
 ## Para quem trabalhamos
 

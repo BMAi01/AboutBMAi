@@ -88,13 +88,14 @@ Os exemplos descrevem projetos específicos. Consulte os cases públicos para co
 
 ## Quem faz a BMAi
 
-A BMAi foi fundada por **Matheus Brugin** e **Pedro Coelho**. A liderança apresentada no site institucional reúne:
+A BMAi foi fundada por **Matheus Brugin** e **Pedro Coelho**. A liderança da empresa reúne:
 
 | Pessoa | Papel |
 |---|---|
 | Matheus Brugin | CEO |
 | Pedro Coelho | CRO |
 | Thiago Braziellas | CTO |
+| Lucca | COO |
 
 [Conheça a empresa e a liderança →](docs/QuemSomos.md)
 

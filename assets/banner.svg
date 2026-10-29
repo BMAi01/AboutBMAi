@@ -1,13 +1,52 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="440" viewBox="0 0 1440 440" role="img" aria-labelledby="title desc">
-<title id="title">BMAi — Engenharia de IA e tecnologia</title>
-<desc id="desc">Apresentação institucional da BMAi. Da oportunidade de IA ao resultado no dia a dia.</desc>
-<rect width="1440" height="440" rx="24" fill="#141414"/>
-<path d="M1020 0h420v440h-180z" fill="#22201d"/>
-<circle cx="1320" cy="100" r="190" fill="none" stroke="#f57832" stroke-width="2" opacity=".45"/>
-<circle cx="1320" cy="100" r="250" fill="none" stroke="#f57832" stroke-width="2" opacity=".18"/>
-<rect x="72" y="66" width="58" height="6" rx="3" fill="#ff7937"/>
-<text x="72" y="177" font-family="Arial, Helvetica, sans-serif" font-size="92" font-weight="700" fill="#fff">BMAi<tspan fill="#ff7937">.</tspan></text>
-<text x="76" y="248" font-family="Arial, Helvetica, sans-serif" font-size="31" fill="#f5f2ee">Engenharia de IA e tecnologia para empresas.</text>
-<text x="76" y="304" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#c4beb7">Da oportunidade de IA ao resultado no dia a dia.</text>
-<text x="76" y="384" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="3" fill="#ff9a65">BRASÍLIA · BRASIL</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="540" viewBox="0 0 1600 540" role="img" aria-labelledby="title desc">
+  <title id="title">BMAi — IA que faz parte do seu negócio</title>
+  <desc id="desc">Banner institucional em preto e laranja. Engenharia de IA e tecnologia para empresas. Estratégia, desenvolvimento e operação.</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1">
+      <stop stop-color="#181a1c"/>
+      <stop offset="1" stop-color="#090b0d"/>
+    </linearGradient>
+    <linearGradient id="orange" x2="1" y2="1">
+      <stop stop-color="#ffad71"/>
+      <stop offset=".5" stop-color="#ff7b38"/>
+      <stop offset="1" stop-color="#ee4e21"/>
+    </linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" fill="none" stroke="#fff" stroke-opacity=".045"/>
+    </pattern>
+    <clipPath id="frame"><rect width="1600" height="540" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1600" height="540" fill="url(#background)"/>
+    <rect x="970" width="630" height="540" fill="url(#grid)"/>
+    <path d="M1040 0H1600V540H1220Z" fill="#ff7b38" opacity=".035"/>
+    <rect x="0" width="8" height="540" fill="#ff7b38"/>
+    <g font-family="Arial, Helvetica, sans-serif">
+      <text x="76" y="130" font-size="78" font-weight="800" letter-spacing="-4" fill="#f8f7f4">BMAi<tspan fill="#ff7b38">.</tspan></text>
+      <rect x="76" y="166" width="42" height="3" rx="1.5" fill="#ff7b38"/>
+      <text x="76" y="242" font-size="52" font-weight="700" letter-spacing="-1.5" fill="#f8f7f4">IA que faz parte</text>
+      <text x="76" y="305" font-size="52" font-weight="700" letter-spacing="-1.5" fill="#f8f7f4">do seu negócio<tspan fill="#ff7b38">.</tspan></text>
+      <text x="78" y="359" font-size="22" fill="#b9babe">Engenharia de IA e tecnologia para empresas.</text>
+      <text x="78" y="438" font-size="13" font-weight="700" letter-spacing="2.5" fill="#dedbd6">ESTRATÉGIA</text>
+      <circle cx="205" cy="433" r="3" fill="#ff7b38"/>
+      <text x="228" y="438" font-size="13" font-weight="700" letter-spacing="2.5" fill="#dedbd6">DESENVOLVIMENTO</text>
+      <circle cx="431" cy="433" r="3" fill="#ff7b38"/>
+      <text x="454" y="438" font-size="13" font-weight="700" letter-spacing="2.5" fill="#dedbd6">OPERAÇÃO</text>
+      <text x="78" y="494" font-size="15" fill="#878b90">Brasília, Brasil</text>
+      <text x="1518" y="494" text-anchor="end" font-size="15" fill="#b9babe">bmai.com.br</text>
+    </g>
+    <g transform="translate(1168 265)" fill="none">
+      <circle r="171" stroke="#ff7b38" stroke-opacity=".17"/>
+      <circle r="210" stroke="#ff7b38" stroke-opacity=".09" stroke-dasharray="3 9"/>
+      <path d="M-210 0H210M0-210V210" stroke="#ff7b38" stroke-opacity=".12"/>
+      <rect x="-105" y="-105" width="210" height="210" rx="34" transform="rotate(-30)" stroke="url(#orange)" stroke-width="3"/>
+      <rect x="-105" y="-105" width="210" height="210" rx="34" transform="rotate(30)" stroke="url(#orange)" stroke-width="3"/>
+      <rect x="-53" y="-53" width="106" height="106" rx="23" fill="url(#orange)" transform="rotate(-15)"/>
+      <path d="M-19 1L-4 16L24-16" stroke="#17191b" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+      <circle cy="-171" r="5" fill="#ff9c62"/>
+      <circle cx="171" r="5" fill="#ff9c62"/>
+      <circle cy="171" r="5" fill="#ff9c62"/>
+      <circle cx="-171" r="5" fill="#ff9c62"/>
+    </g>
+  </g>
 </svg>
