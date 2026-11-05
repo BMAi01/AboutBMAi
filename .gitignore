@@ -8,3 +8,23 @@ docs/*
 !assets/
 assets/*
 !assets/banner.svg
+
+# --- Segurança e higiene (padrão BMAI): impede subir segredos, logs, chaves e lixo ---
+.env
+.env.*
+!.env.example
+!.env.*.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+*.keystore
+*.log
+logs/
+.idea/
+.DS_Store
+node_modules/
+*.dump
+*.bak
+*.sql.gz
